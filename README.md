@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Just Depressed Penguin**
 
-- 🎯 Frone-End Mentor Tasks [https://www.frontendmentor.io/profile/DepressedPenguin/](https://www.frontendmentor.io/profile/DepressedPenguin/)
+- 🎯 Front-End Mentor [https://www.frontendmentor.io/profile/DepressedPenguin/](https://www.frontendmentor.io/profile/DepressedPenguin/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
