@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **Just Depressed Penguin**
 
+- 🎯 Frone-End Mentor Tasks [https://www.frontendmentor.io/profile/DepressedPenguin/](https://www.frontendmentor.io/profile/DepressedPenguin/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dp_0_penguin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dp_0_penguin" height="30" width="40" /></a>
