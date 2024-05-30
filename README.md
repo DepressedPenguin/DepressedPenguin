@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://elaroussi.me/](https://elaroussi.me/)
 
+- Latest Project : https://www.breatheasylife.life/
+
 - 💬 Ask me about **HTML.CSS,JS,PYTHON**
 
 - 📫 How to reach me **zakariaelaro@gmail.com**
