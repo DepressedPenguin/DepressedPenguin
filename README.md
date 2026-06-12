@@ -1,4 +1,4 @@
-<img width="80%" height="300" alt="mario" src="https://github.com/user-attachments/assets/16e8568c-b45c-4e3c-adc9-d18b8b753b9d" />
+<img width="80%" alt="mario" src="https://github.com/user-attachments/assets/16e8568c-b45c-4e3c-adc9-d18b8b753b9d" />
 
 
 # Hi 👋, I'm Zakaria
